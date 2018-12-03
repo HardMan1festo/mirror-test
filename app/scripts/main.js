@@ -12,6 +12,7 @@ $(document).ready(function () {
       console.log(tinyUrl);
       $('#tiny-url').text(tinyUrl).attr('href', tinyUrl);
       $('#hided-button').css('opacity', 1);
+      $('.link-border').css('opacity', 1);
     }
   });
   };
