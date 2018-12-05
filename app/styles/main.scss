@@ -2,12 +2,18 @@
 // endbower
 @import "bower_components/bootstrap/scss/bootstrap.scss";
 
+body {
+  font-family: 'Slabo', serif;
+}
+
+
 #hided-button {
   opacity: 0;
   border-radius: 0 6px 6px 0;
   margin-left: -2.5px;
-  height: 37px;
-  vertical-align: baseline;
+  vertical-align: inherit;
+  height: 39px;
+  font-size: 16px;
 }
 
 h1 {
@@ -23,22 +29,19 @@ h1 {
   text-align: center;
 }
 
-#block1 {
-
-}
-
 .link-border {
   opacity: 0;
   border-radius: 6px 0 0 6px;
   border: 3px solid #373C42;
-  padding-top: 6px;
-  padding-bottom: 6px;
-  padding-right: 8px;
-  padding-left: 8px;
+  padding: 8px 8px;
   margin-right: -2.5px;
-  vertical-align: baseline;
+  height: 100%;
+  font-size: 16px;
 }
 
+.link-block {
+  display: inline-block;
+}
 
 @media (max-width: 767px) {
   .main {
