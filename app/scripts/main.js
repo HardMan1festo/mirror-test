@@ -17,7 +17,7 @@ $(document).ready(function () {
   });
   };
 
-    $('form').on('submit', function(event) {
+  $('form').on('submit', function(event) {
     event.preventDefault();
     longUrl = ($(this).serializeArray()[0].value);
     console.log(longUrl);
