@@ -12,11 +12,10 @@ globaly installed bower and gulp
 
 ### Technologies
 
-* [node.js] - evented I/O for the backend.
-* [Bower] - front-end package manager similar
-* [Gulp] - the streaming build system
-* [jQuery] - a JavaScript library
-* [Bootstrap 4] - front-end framework
+* node.js - evented I/O for the backend.
+* Bower - front-end package manager similar
+* Gulp - the streaming build system
+* jQuery - a JavaScript library
 
 
 ## Getting Started
