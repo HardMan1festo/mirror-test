@@ -13,9 +13,10 @@ You can check how this app works here: https://url-shortener-front.herokuapp.com
 ### Technologies
 
 * Node.js - evented I/O for the backend.
-* Bower - front-end package manager similar
+* Bower - front-end package manager
 * Gulp - the streaming build system
 * jQuery - a JavaScript library
+* Google URL Shortener API
 
 
 ## Getting Started
