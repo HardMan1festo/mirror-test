@@ -6,9 +6,9 @@ You can check how this app works here: https://url-shortener-front.herokuapp.com
 
 ## Dependencies
 
-npm v11.4.0
-node v6.4.1
-globaly installed bower and gulp
+- npm v11.4.0
+- node v6.4.1
+- globaly installed bower and gulp
 
 ### Technologies
 
